@@ -1,0 +1,9 @@
+[21:55:0] The main program was started. 
+[21:55:0] A new world visited! The world PID is 26495 
+[21:55:1] A new world visited! The world PID is 26497 
+[21:55:2] A new world visited! The world PID is 26499 
+[21:55:3] A new world visited! The world PID is 26501 
+[21:55:3] The user pressed ctrl+C, terminating the program. 
+[21:55:3] The main process send SIGTERM, closing child... 
+[21:55:3] The main process send SIGTERM, closing child... 
+[21:55:3] All children have returned, exiting the main program! 
